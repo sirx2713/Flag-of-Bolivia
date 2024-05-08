@@ -1,0 +1,24 @@
+h1{
+    font-family: "SF Pro Display", serif;
+}
+body{
+    background-color: #EEF7FF;
+}
+.main-div > #red-div{
+    height: 100px;
+    width: 1200px;
+    background-color: #DA291C;
+}
+.main-div{
+    display: block;
+}
+.main-div > #yellow-div{
+    height: 100px;
+    width: 1200px;
+    background-color: #F8E600;
+}
+.main-div > #green-div{
+    height: 100px;
+    width: 1200px;
+    background-color: #007A33;
+}
